@@ -31,5 +31,8 @@ El objetivo es identificar patrones de enfoque y agotamiento mental según la ta
 2. Ábrelo con **Power BI Desktop**.
 3. Utiliza los segmentadores superiores para filtrar por tipo de sonido y tarea.
 
+   <img width="898" height="500" alt="Captura 1" src="https://github.com/user-attachments/assets/1e9daac7-4969-48aa-a1e2-57a3469eaeee" />
+
+
 ---
 Creado por **Nicolás Fernando Hernaez** - https://www.linkedin.com/in/nicolas-hernaez-23b4b52b8/ 
